@@ -1,3 +1,25 @@
+//Documentation Section 
+
+/*
+File Name : Lab 22
+Author : Hamza Alsayed Almradny
+Version : V.1
+Purpose : Find the sum of first 10 natural numbers.
+Date : 24/7/2025
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
